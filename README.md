@@ -1,7 +1,7 @@
 ### Hi there 👋 i'm 10xcryptodev
 
 - 🔭 I’m currently working on:
-  - Bitcoin Contributions - https://github.com/bitcoin/bitcoin/pulls/10xcryptodev
+  - Bitcoin Core Contributions - https://github.com/bitcoin/bitcoin/pulls/10xcryptodev
   - Dash Core Contributions - https://github.com/dashpay/dash/pulls/10xcryptodev
   - Dash Platform Contributions
     ## DAPI Bindings
