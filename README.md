@@ -1,8 +1,8 @@
 ### Hi there 👋 i'm 10xcryptodev
 
 - 🔭 I’m currently working on:
-  - Bitcoin Core Contributions - https://github.com/bitcoin/bitcoin/pulls/10xcryptodev
-  - Dash Core Contributions - https://github.com/dashpay/dash/pulls/10xcryptodev
+  - [Bitcoin Core Contributions](https://github.com/bitcoin/bitcoin/pulls?q=is%3Apr+author%3A10xcryptodev+is%3Aclosed)
+  - [Dash Core Contributions](https://github.com/dashpay/dash/pulls?q=is%3Apr+author%3A10xcryptodev+is%3Aclosed)
   - Dash Platform Contributions
     ## DAPI Bindings
     - Python - https://github.com/10xcryptodev/dapi-client-py
